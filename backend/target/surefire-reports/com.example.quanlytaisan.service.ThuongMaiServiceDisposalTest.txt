@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.quanlytaisan.service.ThuongMaiServiceDisposalTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.20 s -- in com.example.quanlytaisan.service.ThuongMaiServiceDisposalTest
